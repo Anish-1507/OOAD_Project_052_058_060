@@ -26,7 +26,6 @@ Step:
 9)after save this is look like that.
 10)u will create all the table name that is given in the project .
 11) u do not need to create a customer table.
-12) if u have any doubt then ask me in comment section.
-13) If u like this project then plz like subscribe  and share this video thanx for watching.   
+12) if u have any doubt then ask me in comment section   
 
 
